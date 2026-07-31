@@ -1,5 +1,12 @@
 # SDG Data Insights Dashboard
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AdnaKoss/sdg-data-insights-dashboard)
+[![Python](https://img.shields.io/badge/python-3.12-blue)](backend/requirements.txt)
+[![React](https://img.shields.io/badge/react-18-61DAFB)](frontend/package.json)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688)](backend/requirements.txt)
+
+<!-- Live demo: dodati link nakon deploy-a, npr. **[Live demo](https://sdg-data-insights-dashboard.onrender.com)** -->
+
 Full-stack aplikacija koja obrađuje World Bank Open Data indikatore (pristup
 internetu, obrazovanje, siromaštvo, rodna ravnopravnost, BDP...) i nad njima
 radi analizu — KMeans klasterovanje zemalja po "digitalnoj spremnosti", linearnu
