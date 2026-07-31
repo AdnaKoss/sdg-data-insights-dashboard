@@ -5,7 +5,8 @@
 [![React](https://img.shields.io/badge/react-18-61DAFB)](frontend/package.json)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688)](backend/requirements.txt)
 
-<!-- Live demo: dodati link nakon deploy-a, npr. **[Live demo](https://sdg-data-insights-dashboard.onrender.com)** -->
+**[Live demo](https://sdg-data-insights-dashboard.onrender.com)** — hostovano na Render free tier-u
+(free instance spava nakon 15 min neaktivnosti, prvo učitavanje može potrajati ~30-60s).
 
 Full-stack aplikacija koja obrađuje World Bank Open Data indikatore (pristup
 internetu, obrazovanje, siromaštvo, rodna ravnopravnost, BDP...) i nad njima
